@@ -1,4 +1,5 @@
-#Credit Me
+# Credit Me  
+
 Easily add accreditation to a bunch of images 
 
 ## About the project 
